@@ -21,4 +21,4 @@
 - [Expo](#)
 - [NativeWind](#)
 
-## Deploy :player:
+## Deploy :hourglass:
