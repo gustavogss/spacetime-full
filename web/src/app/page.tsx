@@ -1,11 +1,7 @@
-import { Botao } from '@/components/Botao'
-import Image from 'next/image'
-
 export default function Home() {
   return (
-    <>
-    <h1>Spacetime Web</h1>
-    <Botao />
-    </>
+    <div className="h-screen bg-zinc-900 p-6 text-zinc-50">
+      <h1 className="text-4xl font-bold">Sua cápsula do tempo</h1>
+    </div>
   )
 }
